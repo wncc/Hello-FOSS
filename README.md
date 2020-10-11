@@ -11,6 +11,7 @@ There's this initiative called [Hacktoberfest](https://hacktoberfest.digitalocea
 Open Source can be daunting at first, How would I get started? Will they accept me? Will ..anyone accept me?    
 Relax! If you're clueless, watch this recent introductory session by us - [Panel Discussion with GSoCers](https://youtu.be/UtmGnnutXeo)
 
+## Active Projects 
 Under this initiative Hello FOSS, we bring to you various projects from diverse fields which you can contribute to and start your open source journey. To begin with, listed below are the projects that are being launched. We will soon be adding more projects to help you get started easily with projects that match your skills. 
 Choose your field of interest and get started!
 
@@ -22,10 +23,18 @@ Choose your field of interest and get started!
 
 - **Scientific Calculator** : Contribute to this android application to build a fully functional scientific application! Head [here](https://github.com/wncc/Hello-FOSS-Calci) to know more and get started!
 
+Most projects won't have any major prerequisites. For those of you who are new to git and github, you can begin with the following [this](https://youtu.be/_W0C8cIyROw) workshop that we conducted some time back. Also do remember that the best way to learn is by doing. So don't hesitate and just take the first step. Each project has mentors who can help you with all your doubts.
+
+## Guidelines
+
+Head to the linked repository of the project and go through it. Every project has detailed description of what is expected from the contributors. The tasks that you can work on  are also listed with each project. Other than that you can check the "Issues" tab which lists few tasks that you can work on. You are also free to add your own features or work on tasks not listed in the Issues by creating your own issues. 
+-For submitting your changes, follow the Pull Request template as given [here](https://github.com/wncc/Hello-FOSS/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+-After going through the projects you may find some bugs or would have some suggestions for further improvements. You can also contribute to the project by creating "issues" for such requests. For this, you can follow the templates given [here](https://github.com/wncc/Hello-FOSS/tree/master/.github/ISSUE_TEMPLATE) 
 
 
+Finally, feel free to discuss your doubts with us. Join our [Discord server](https://discord.com/invite/mzhyrvS)for all discussions around Hello FOSS.
 
-Join our [Discord](https://discord.com/invite/mzhyrvS) for discussing your doubts.
+Looking forward to your contributions and we hope this initiative helps you take your first step towards open source! Cheers!
 
 ***
 
