@@ -11,6 +11,18 @@ There's this initiative called [Hacktoberfest](https://hacktoberfest.digitalocea
 Open Source can be daunting at first, How would I get started? Will they accept me? Will ..anyone accept me?    
 Relax! If you're clueless, watch this recent introductory session by us - [Panel Discussion with GSoCers](https://youtu.be/UtmGnnutXeo)
 
+Under this initiative Hello FOSS, we bring to you various projects from diverse fields which you can contribute to and start your open source journey. To begin with, listed below are the projects that are being launched. We will soon be adding more projects to help you get started easily with projects that match your skills. 
+Choose your field of interest and get started!
+
+- **Data Structures and Algorithms** : For those interested in algorithms and data structures , head [here](https://github.com/wncc/Hello-FOSS-DSA).
+
+- **Machine Learning** : This project is suitable for anyone who would like to contribute to machine learning be it a beginner or an expert. Head [here](https://github.com/wncc/Hello-FOSS-ML) to know more!
+
+- **Chat Application** : If you are interested in development, head [here](https://github.com/wncc/Hello-FOSS-Chat) to contribute to this chat application. The basic prototype is ready but with your contributions this project can be improved on multiple folds. Check out the issues listed and get started!
+
+- **Scientific Calculator** : Contribute to this android application to build a fully functional scientific application! Head [here](https://github.com/wncc/Hello-FOSS-Calci) to know more and get started!
+
+
 
 
 Join our [Telegram group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) for discussing your doubts.
