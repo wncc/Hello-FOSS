@@ -25,7 +25,7 @@ Choose your field of interest and get started!
 
 
 
-Join our [Telegram group](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) for discussing your doubts.
+Join our [Discord](https://discord.com/invite/mzhyrvS) for discussing your doubts.
 
 ***
 
