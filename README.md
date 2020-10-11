@@ -28,11 +28,11 @@ Most projects won't have any major prerequisites. For those of you who are new t
 ## Guidelines
 
 Head to the linked repository of the project and go through it. Every project has detailed description of what is expected from the contributors. The tasks that you can work on  are also listed with each project. Other than that you can check the "Issues" tab which lists few tasks that you can work on. You are also free to add your own features or work on tasks not listed in the Issues by creating your own issues. 
--For submitting your changes, follow the Pull Request template as given [here](https://github.com/wncc/Hello-FOSS/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
--After going through the projects you may find some bugs or would have some suggestions for further improvements. You can also contribute to the project by creating "issues" for such requests. For this, you can follow the templates given [here](https://github.com/wncc/Hello-FOSS/tree/master/.github/ISSUE_TEMPLATE) 
+- For submitting your changes, follow the Pull Request template as given [here](https://github.com/wncc/Hello-FOSS/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+- After going through the projects you may find some bugs or would have some suggestions for further improvements. You can also contribute to the project by creating "issues" for such requests. For this, you can follow the templates given [here](https://github.com/wncc/Hello-FOSS/tree/master/.github/ISSUE_TEMPLATE) 
 
 
-Finally, feel free to discuss your doubts with us. Join our [Discord server](https://discord.com/invite/mzhyrvS)for all discussions around Hello FOSS.
+Finally, feel free to discuss your doubts with us. Join our [Discord server](https://discord.com/invite/mzhyrvS) for all discussions around Hello FOSS.
 
 Looking forward to your contributions and we hope this initiative helps you take your first step towards open source! Cheers!
 
