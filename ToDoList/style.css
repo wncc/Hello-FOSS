@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+   
+    background-image: linear-gradient(120deg,#caa605,#d34912 );
+    font-family:cursive,'Courier New', Courier, monospace;
+    min-height: 100vh;
+}
+
+
+header{
+    font-size: 1.5em;
+}
+header,form{
+    min-height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form input,form button{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0.5rem;
+    color: tomato;
+    font-size: 2rem;
+    background: white;
+    border: none;
+    transition: all 0.3 s ease;
+    outline: none;
+
+}
+
+form button:hover{
+    cursor: pointer;
+    color: rgb(247, 46, 10);
+
+}
+
+.todo-containeer{
+    display: flex;
+    align-self:center;
+    justify-content: center;
+
+  
+    
+}
+
+.todo-list{
+    list-style: none;
+    min-width: 10%;
+}
+
+.todo{
+    border: none;
+    margin: 10%;
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(238, 201, 128);
+    align-items: center;
+    font-size: 1.6rem;
+    transition: all 1s ease;
+
+
+}
+.todo-item{
+    padding:0rem 0.4rem; 
+   
+}
+.todo li{
+    flex: 1;
+}
+
+.complete-btn,.trash-btn{
+    border: none;
+    font-size: 1.4rem;
+    color: ghostwhite;
+    padding: 1rem;
+    cursor: pointer;
+    background-color: rgb(73, 175, 73);
+    outline: none;
+
+
+}
+
+.trash-btn:hover{
+    background-color: rgb(251, 177, 164);
+    color: rgb(255, 38, 0);
+}
+.complete-btn:hover{
+    color: rgb(121, 214, 121);
+    background-color: darkgreen;
+}
+
+.fa-check,.fa-trash{
+    pointer-events: none;
+}
+
+
+.completed{
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+.fall {
+   
+    transform: translateY(8rem) rotateZ(20deg);
+    opacity: 0;
+}
