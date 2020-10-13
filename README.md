@@ -21,7 +21,7 @@ Choose your field of interest and get started!
 
 - **Chat Application** : If you are interested in development, head [here](https://github.com/wncc/Hello-FOSS-Chat) to contribute to this chat application. The basic prototype is ready but with your contributions this project can be improved on multiple folds. Check out the issues listed and get started!
 
-- **Scientific Calculator** : Contribute to this android application to build a fully functional scientific application! Head [here](https://github.com/wncc/Hello-FOSS-Calci) to know more and get started!
+- **Scientific Calculator** : Contribute to this android application to build a fully functional scientific Calculator! Head [here](https://github.com/wncc/Hello-FOSS-Calci) to know more and get started!
 
 Most projects won't have any major prerequisites. For those of you who are new to git and github, you can begin with the following [this](https://youtu.be/_W0C8cIyROw) workshop that we conducted some time back. Also do remember that the best way to learn is by doing. So don't hesitate and just take the first step. Each project has mentors who can help you with all your doubts.
 
