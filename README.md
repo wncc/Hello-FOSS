@@ -23,6 +23,8 @@ Choose your field of interest and get started!
 
 - **Scientific Calculator** : Contribute to this android application to build a fully functional scientific Calculator! Head [here](https://github.com/wncc/Hello-FOSS-Calci) to know more and get started!
 
+- **Hello FOSS Official Website** : This website is home to everything about this initiative, Hello FOSS, including details about active projects and the Community Blogs. Make sure you add a blog here about your experience, any issues you faced while doing any of the tasks etc to help other contributors! Check out the repo [here](https://github.com/wncc/Hello-FOSS-webdev)
+
 Most projects won't have any major prerequisites. For those of you who are new to git and github, you can begin with the following [this](https://youtu.be/_W0C8cIyROw) workshop that we conducted some time back. Also do remember that the best way to learn is by doing. So don't hesitate and just take the first step. Each project has mentors who can help you with all your doubts.
 
 ## Guidelines
